@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ICICI.echo.EchoServiceInServerIT
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 319.149 sec - in ICICI.echo.EchoServiceInServerIT
