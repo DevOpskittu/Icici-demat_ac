@@ -22,7 +22,7 @@
 		<version.plugin.failsafe>2.19</version.plugin.failsafe>
 		<version.plugin.wildfly>1.1.0.Alpha4</version.plugin.wildfly>
 
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.javaee>7.0</version.javaee>
 		<version.shrinkwrap>1.2.2</version.shrinkwrap>
 		<version.shrinkwrap.resolver>2.2.0</version.shrinkwrap.resolver>
